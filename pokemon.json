@@ -1,0 +1,26 @@
+[
+    {
+    "img"  : "pikachu.jpg",
+    "nombre" : "Pikachu",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Electrico"
+},
+{
+    "img"  : "bulbasaur.jpg",
+    "nombre" : "Bullbasaur",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : ""
+},
+{
+    "img"  : "charmander.jpg",
+    "nombre" : "Charmander",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Fuego"
+},
+{
+    "img"  : "rattata.jpg",
+    "nombre" : "Rattata",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Normal"
+}
+]
