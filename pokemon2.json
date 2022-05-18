@@ -1,0 +1,20 @@
+[
+    {
+    "img"  : "https://images.wikidexcdn.net/mwuploads/wikidex/a/a6/latest/20170617012949/Elekid.png",
+    "nombre" : "ELekid",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Electrico"
+},
+{
+    "img"  : "https://static.wikia.nocookie.net/espokemon/images/3/39/Swinub_en_la_segunda_generaci%C3%B3n.png/revision/latest?cb=20091004144911",
+    "nombre" : "Swinub",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Hielo/Tierra"
+},
+{
+    "img"  : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/201.png",
+    "nombre" : "Unown",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Fuego"
+}
+]
