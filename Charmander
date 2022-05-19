@@ -1,0 +1,9 @@
+[
+
+{
+    "img"  : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "nombre" : "Charmander",
+    "evolucion" : "Es un pokemon que aun no ha evolucionado",
+    "tipo" : "Fuego"
+}
+]
